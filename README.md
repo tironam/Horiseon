@@ -1,1 +1,3 @@
 # Horiseon
+
+In the HTML, I was able to change a lot of the <div> assets to semantics to make the different sections easier to read. I was also able to clean up some of the HTML to make it more consistent. For example, some of the img tags towards the bottom had different end tags. I also added alt attributes to the end of all the images to make and changed the title of the site to make it more accessible. One thing I was having trouble with was trying to change the classes of some of the div elements so I could simplify the CSS. Whenever I'd try chaning the class of the elements in my "section" div, it would throw off the images, and trying to change the class for the images to match in the CSS didn't help it, either.
